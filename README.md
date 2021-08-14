@@ -1,5 +1,5 @@
 # GoRandomUA
-Simple GoLang useragent randomizer
+Simple Golang useragent randomizer
 
 ## Usage
 
