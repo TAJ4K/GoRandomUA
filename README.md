@@ -1,2 +1,8 @@
 # GoRandomUA
-Golang useragent randomizer
+Simple GoLang useragent randomizer
+
+## Usage
+
+```Go
+var UA string = randomUA()
+```
