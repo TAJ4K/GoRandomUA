@@ -1,4 +1,4 @@
-package main
+package GoRandomUA
 
 import (
 	"math/rand"
