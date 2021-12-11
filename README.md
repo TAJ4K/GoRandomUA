@@ -4,5 +4,7 @@ Simple Golang useragent randomizer
 ## Usage
 
 ```Go
-var UA string = randomUA()
+import "github.com/TAJ4K/goRandomUA"
+
+var UA string = goRandomUA.RandomUA()
 ```
